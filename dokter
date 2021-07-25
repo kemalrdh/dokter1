@@ -1,0 +1,30 @@
+{
+
+"dokter":
+
+[
+
+{ 
+  "id":"DO001",
+  "name":"Dr.Kael",
+  "Kategori Dokter":"Dokter Umum",
+  "Tempat Bekerja":"RS.Mitra Saudara"
+  },
+
+{
+  "id":"DO002",
+  "name":"Dr.Felixia",
+  "Kategori Dokter":"Dokter Gigi",
+  "Tempat Bekerja":"RS.Sehat Dong"
+},
+
+{
+  "id":"DO003",
+  "name":"Dr.Farhan",
+  "Kategori Dokter":"Dokter Anak",
+  "Tempat Bekerja":"RS. Mitra Kandung"
+}
+
+]
+
+}
